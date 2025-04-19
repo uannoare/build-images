@@ -506,3 +506,4 @@
 2025-09-06 05:50:12 cleanup code
 2025-06-13 07:21:37 better error handling
 2025-02-04 02:21:45 update schema migration
+2025-04-19 16:41:41 improve logging format
