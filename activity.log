@@ -822,3 +822,4 @@
 2025-04-17 19:48:44 update API keys
 2025-02-17 22:51:55 update configs for prod
 2025-04-09 19:13:52 patch memory leak
+2025-06-30 08:44:04 adjust error messages
