@@ -381,3 +381,4 @@
 2025-05-27 10:45:31 improve security
 2025-08-12 23:51:36 fix crash issue
 2025-01-09 22:06:17 cleanup dependencies
+2025-09-17 11:44:42 better error handling
